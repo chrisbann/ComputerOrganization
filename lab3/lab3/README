@@ -1,0 +1,4 @@
+Run "make comp" to run the computation test
+Run "make ldstr" to run the Load/Store test
+Run "make p1" to run the full test.
+Run "make clean" to clean the directory from .ghw files

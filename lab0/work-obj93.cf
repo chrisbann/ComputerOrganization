@@ -1,0 +1,7 @@
+v 4
+file . "and2.vhd" "c8c5ff591150633b2aa9b21aafd011eb06059c7f" "20230919034128.870":
+  entity and2 at 1( 0) + 0 on 46;
+  architecture dataflow of and2 at 15( 212) + 0 on 47;
+file . "and2_testbench.vhd" "04d0c823d46d6a74a180eb21521aeada9442d832" "20230919034128.875":
+  entity and2_testbench at 1( 0) + 0 on 48;
+  architecture structural of and2_testbench at 8( 116) + 0 on 49;
