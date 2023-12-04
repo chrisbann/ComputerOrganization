@@ -1,0 +1,3 @@
+Run "make p1" to run the full test.
+Run "make p2" to run the full test.
+Run "make clean" to clean the directory from .ghw files
